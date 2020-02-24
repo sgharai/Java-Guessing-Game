@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Main {
+public class GuessingGame {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
